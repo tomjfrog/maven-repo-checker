@@ -1,3 +1,4 @@
+```bash
 REPO_KEY                                  MATURITY                             NAME_CHECK
 ----------------------------------------  -----------------------------------  --------------------
 alpha-maven-dev-local                     mixed (both snapshots & releases)    n/a
@@ -116,7 +117,7 @@ xray-comparison-libs-release-local        mixed (both snapshots & releases)    n
 xray-comparison-libs-snapshot-local       snapshot-only                        OK (contains 'snapshot')
 xray-demo-maven-dev-local                 mixed (both snapshots & releases)    n/a
 xray-demo-maven-stage-local               mixed (both snapshots & releases)    n/a
-
+```
 Notes:
   - -> Consider renaming 'config_server-maven-dev-local' to include 'snapshot'
   - -> Consider renaming 'config_server-maven-stage-local' to include 'release'
